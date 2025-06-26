@@ -1,0 +1,7 @@
+# Required for *.qsl,*.ql files in this directory to work
+name: smelc/java-security-queries
+version: 0.0.1
+extractor: java
+library: false
+dependencies:
+  codeql/java-queries: "*" # gives you the standard libs
