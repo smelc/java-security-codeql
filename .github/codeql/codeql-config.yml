@@ -1,3 +1,3 @@
 queries:
-  # - uses: ./codeql-queries/Sarge.qls
+  - uses: ./codeql-queries/Joor.qls
   - uses: java-security-and-quality

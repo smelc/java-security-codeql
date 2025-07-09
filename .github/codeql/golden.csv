@@ -1,1 +1,2 @@
-Tool,Severity,Code,Description,Location,Line
+Tool,Code,Description,Location,Line
+CodeQL,java/code-injection,Tainted data passed to joor,main/java/com/moduscreate/java/security/codeql/App.java,18.0

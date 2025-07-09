@@ -12,5 +12,5 @@
 import java
 import semmle.code.java.dataflow.FlowSources
 
-from RemoteFlowSource src
+from ActiveThreatModelSource src
 select src, "Potential flow source"
